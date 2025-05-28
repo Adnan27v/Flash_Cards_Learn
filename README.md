@@ -19,8 +19,8 @@ A Python-based flash card learning application that helps users memorize and lea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Flash-Cards-Learn.git
-   cd Flash-Cards-Learn
+   git clone https://github.com/yourusername/Flash_Cards_Learn.git
+   cd Flash_Cards_Learn
    ```
 
 2. Create and activate a virtual environment:
